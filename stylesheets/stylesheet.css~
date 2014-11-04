@@ -23,6 +23,7 @@ body {
 .imgPort{
 
  width: 40%;
+ box-shadow: 2px 2px 5px #000;
  /*vertical-align: center;*/
 }
 
